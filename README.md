@@ -9,7 +9,6 @@ This project is a scalable video streaming server built with TypeScript, Node.js
 - [Installation](#installation)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
-- [API Documentation](#api-documentation)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -17,7 +16,6 @@ This project is a scalable video streaming server built with TypeScript, Node.js
 
 - Scalable video streaming using Express and Socket.IO
 - TypeScript for type safety and maintainability
-- Redis for caching video chunks
 - PM2 for process management and scalability
 - Swagger for API documentation
 - Organized folder structure for scalability
@@ -26,7 +24,6 @@ This project is a scalable video streaming server built with TypeScript, Node.js
 
 - [Node.js](https://nodejs.org/en/download/) (v14 or higher)
 - [Yarn](https://classic.yarnpkg.com/en/docs/install) (or npm)
-- [Redis](https://redis.io/download)
 
 ## Installation
 
