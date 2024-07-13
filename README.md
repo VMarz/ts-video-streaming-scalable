@@ -38,22 +38,27 @@ This project is a scalable video streaming server built with TypeScript, Node.js
 
 
 2. Install dependencies:
-    ``` yarn install
+    ```bash
+    yarn install
 
 3. Install PM2 globally if you haven't already:
-    ```yarn globad add pm2
+    ```bash
+    yarn globad add pm2
 
 ## USAGE
 1.  Compile the TypeScript code:
-    ```npx tsc
+    ```bash
+    npx tsc
 
 2.  Start the server using PM2:
-    ```pm2 start dist/server.js -i max
+    ```bash
+    pm2 start dist/server.js -i max
 
 3.  Visit http://localhost:3000 to see the home page and http://localhost:3000/api-docs for the API documentation.
 
 4.  To stop the server:
-    ```pm2 stop server
+    ```bash
+    pm2 stop server
 
 ## Folder Structure
     ```my-ts-app/
