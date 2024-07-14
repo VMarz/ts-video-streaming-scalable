@@ -17,7 +17,6 @@ This project is a scalable video streaming server built with TypeScript, Node.js
 - Scalable video streaming using Express and Socket.IO
 - TypeScript for type safety and maintainability
 - PM2 for process management and scalability
-- Swagger for API documentation
 - Organized folder structure for scalability
 
 ## Prerequisites
